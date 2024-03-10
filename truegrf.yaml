@@ -1,4 +1,7 @@
 description: A new TrueGRF project
+grfid: f1532bf6
 license: CC0-1.0
+name: fisheries
 type: industry
+url: https://github.com/eor90/fisheries
 version: 6
